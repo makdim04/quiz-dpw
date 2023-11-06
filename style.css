@@ -1,0 +1,44 @@
+/* Gaya untuk Jumbotron */
+.jumbotron {
+    background-image: url('asset/furniture.jpg'); 
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: #ffffff;
+    text-align: center;
+    padding: 100px 0;
+}
+
+/* Gaya untuk Halaman Beranda */
+.jumbotron h1 {
+    font-size: 36px; 
+}
+
+/* Gaya untuk teks di dalam jumbotron */
+.jumbotron p {
+    font-size: 18px; 
+}
+
+/* Gaya untuk judul daftar produk unggulan */
+.container h2 {
+    font-size: 24px; 
+}
+
+/* Gaya untuk teks dalam kartu produk */
+.card-title, .card-text {
+    font-size: 16px; 
+}
+
+
+
+/* Gaya untuk Daftar Produk Unggulan di Halaman Beranda */
+.container {
+    background-image: url('asset/abstrak1.jpg'); /* Ganti 'produk-unggulan-background.jpg' dengan path gambar latar belakang produk unggulan Anda */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: #000000;
+    padding: 20px;
+}
+
+
